@@ -4,7 +4,13 @@ A 2048-inspired grid game with RPG combat mechanics.
 
 ## Demo
 
-https://github.com/AkshatOP/MergeNSlay/raw/main/demo/demo.mp4
+<video src="https://github.com/AkshatOP/MergeNSlay/raw/main/demo/demo.mp4"
+       controls
+       muted
+       playsinline
+       width="800">
+</video>
+
 
 
 ## Overview
